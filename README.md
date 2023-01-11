@@ -39,11 +39,11 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jaberwiki&hide_border=true&theme=redical)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![jaberwiki's github stats](https://github-readme-stats.vercel.app/api?username=jaberwiki&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 
@@ -54,11 +54,11 @@
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+<a href="https://skyline.github.com/jaberwiki/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jaberwiki&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
@@ -73,7 +73,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaberwiki" alt="jaberwiki" /></a>
 </p>
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
@@ -81,7 +81,7 @@
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
+<img src="https://profile-counter.glitch.me/jaberwiki/count.svg">  
 
 counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
@@ -89,7 +89,7 @@ counting of visitors to this page in this section started from May 8, 2022
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@BEPb.github.readme)
+![](https://count.getloli.com/get/@jaberwiki.github.readme)
 </br>
 
 [MIT](LICENSE)
